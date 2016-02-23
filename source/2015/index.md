@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Leading research influence
+issue: "2015"
 ---
 
 **UC Santa Cruz ranked first in research influence** among the world's top universities, according to the World University Rankings, published annually by Times Higher Education (THE).
